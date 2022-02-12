@@ -1,4 +1,4 @@
-# Solana CLI Tools ◎ $SOL
+# Solana CLI Tool Suite ◎ $SOL
 
 ## Usage
 
