@@ -4,10 +4,6 @@
 
 Build the image
 ```
-docker build --tag solana/source:latest --no-cache .
-```
-OR
-```
 docker build --tag solana/stable:latest --no-cache .
 ```
 
