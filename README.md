@@ -4,7 +4,11 @@
 
 Build the image
 ```
-docker build --tag solana/stable .
+docker build --tag solana/source:latest --no-cache .
+```
+OR
+```
+docker build --tag solana/stable:latest --no-cache .
 ```
 
 Create the container and mount the `$PWD` to the `tmp/` directory inside.
